@@ -38,7 +38,7 @@
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <h1><b>Student Registation System</b></h1>
+        <h1><b>Student Registration System</b></h1>
         </br>
         <div class="row">
             <div class="col-sm-4">
